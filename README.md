@@ -1,4 +1,4 @@
-# Common Expression Language
+ # Common Expression Language
 
 The Common Expression Language (CEL) implements common semantics for expression
 evaluation, enabling different applications to more easily interoperate.
